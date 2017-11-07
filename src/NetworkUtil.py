@@ -283,8 +283,8 @@ class NetworkUtil:
         for n in network:
             if network[n].nodeType=="protein":
                 continue
-
-            if abs(network[n].logFC) <= threshold:
+            node = network[n]
+            if abs(node.logFC) <= threshold:
                 toRemove.add(n)
 
         for n in toRemove:

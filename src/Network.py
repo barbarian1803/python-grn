@@ -78,9 +78,9 @@ class Network:
         return table
 
     @staticmethod   ## input file is fimo network and transfac gene-protein network and create merged network file
-    def network_builder(fimo_network, transfac_network,output):
-        fimo = NetworkUtil.load_fimo_network_result(fimo_network)
-        transfac = NetworkUtil.load_transfac_network(transfac_network)
+    def network_builder(fimo_network, transfac_network, output):
+        fimo = Network.load_fimo_network_result(fimo_network)
+        transfac = Network.load_transfac_network(transfac_network)
 
         network = fimo+transfac
 
@@ -186,14 +186,12 @@ class Network:
         start = self.getStartNodesOfNetwork()
         for n in start:
             if self.network[n].nodeType=="protein":
-                self.removeNode(network,n)
+                self.removeNode(n)
 
         end = self.getEndNodesOfNetwork()
         for n in end:
             if self.network[n].nodeType=="protein":
-                self.removeNode(network,n)
-
-        return network
+                self.removeNode(n)
 
     ##remove short sub network that is isolated, remove protein node is start/end pos, remove same path
     def filterNetwork(self):
@@ -228,7 +226,7 @@ class Network:
                 toPrint.add(n+"\t"+node+"\n")
                 self.printChain(n,toPrint)
 
-    def printLongestChain(startnode,fout):
+    def printLongestChain(self,startnode,fout):
         for n in self.network:
             self.network[n].score=0
 
@@ -238,7 +236,7 @@ class Network:
         maxScore = -1
         node = Set()
         for n in self.network:
-            if maxScore<network[n].score:
+            if maxScore < self.network[n].score:
                 maxScore = self.network[n].score
                 node = Set()
                 node.add(n)

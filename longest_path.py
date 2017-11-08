@@ -23,6 +23,9 @@ for line in logFC_file:
     if nodeName in network.getNodes():
         network.getNode(nodeName).logFC = nodeLogFC
 
+
+network.printNodesToFile("gene","data/gene_list.txt")
+
 ## remove nonLOGFC nodes
 
 network.removeNonDiffNode(0.65)

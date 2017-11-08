@@ -19,6 +19,14 @@ class Network:
     def getNodes(self):
         return self.network
 
+    def printNodesToFile(self,type,fname):
+        fout = file(fname,"w")
+        for n in self.getNodes():
+            node = self.getNode(n)
+            if type=="all" or type==node.nodeType:
+                fout.write(node.geneID+"\n")
+        fout.close()
+
     def getNode(self,n):
         return self.network[n]
 

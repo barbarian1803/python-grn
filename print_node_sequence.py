@@ -1,9 +1,9 @@
 import sys
 import re
 from sets import Set
-sys.path.append('src/')
-from GeneNode import GeneNode
-from NetworkUtil import NetworkUtil
+
+from src.GeneNode import GeneNode
+from src.NetworkUtil import NetworkUtil
 
 import os
 fins = os.listdir("lfc_longest_chain")

@@ -16,6 +16,11 @@ class Network:
             array = l.strip().split(split)
             self.createNode(array)
 
+    def getNodes(self):
+        return self.network
+
+    def getNode(self,n):
+        return self.network[n]
 
     ## helper method to add node to the network from edge list element
     def createNode(self,element):

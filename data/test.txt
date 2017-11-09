@@ -1,0 +1,162 @@
+Gene ENSG00000129654 Q92949-FOXJ1
+GO:0000976 molecular_function transcription regulatory region sequence-specific DNA binding
+GO:0044212 molecular_function transcription regulatory region DNA binding
+GO:0001067 molecular_function regulatory region nucleic acid binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1990837 molecular_function sequence-specific double-stranded DNA binding
+GO:0003690 molecular_function double-stranded DNA binding
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0043565 molecular_function sequence-specific DNA binding
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0000978 molecular_function RNA polymerase II proximal promoter sequence-specific DNA binding
+GO:0000977 molecular_function RNA polymerase II regulatory region sequence-specific DNA binding
+GO:0000976 molecular_function transcription regulatory region sequence-specific DNA binding
+GO:0044212 molecular_function transcription regulatory region DNA binding
+GO:0001067 molecular_function regulatory region nucleic acid binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1990837 molecular_function sequence-specific double-stranded DNA binding
+GO:0003690 molecular_function double-stranded DNA binding
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0043565 molecular_function sequence-specific DNA binding
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0001012 molecular_function RNA polymerase II regulatory region DNA binding
+GO:0044212 molecular_function transcription regulatory region DNA binding
+GO:0001067 molecular_function regulatory region nucleic acid binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0000987 molecular_function proximal promoter sequence-specific DNA binding
+GO:0000976 molecular_function transcription regulatory region sequence-specific DNA binding
+GO:0044212 molecular_function transcription regulatory region DNA binding
+GO:0001067 molecular_function regulatory region nucleic acid binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1990837 molecular_function sequence-specific double-stranded DNA binding
+GO:0003690 molecular_function double-stranded DNA binding
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0043565 molecular_function sequence-specific DNA binding
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0000981 molecular_function RNA polymerase II transcription factor activity, sequence-specific DNA binding
+GO:0003700 molecular_function DNA binding transcription factor activity
+GO:0140110 molecular_function transcription regulator activity
+GO:0003674 molecular_function molecular_function
+GO:0001077 molecular_function transcriptional activator activity, RNA polymerase II proximal promoter sequence-specific DNA binding
+GO:0000982 molecular_function transcription factor activity, RNA polymerase II proximal promoter sequence-specific DNA binding
+GO:0000981 molecular_function RNA polymerase II transcription factor activity, sequence-specific DNA binding
+GO:0003700 molecular_function DNA binding transcription factor activity
+GO:0140110 molecular_function transcription regulator activity
+GO:0003674 molecular_function molecular_function
+GO:0001228 molecular_function transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific DNA binding
+GO:0000981 molecular_function RNA polymerase II transcription factor activity, sequence-specific DNA binding
+GO:0003700 molecular_function DNA binding transcription factor activity
+GO:0140110 molecular_function transcription regulator activity
+GO:0003674 molecular_function molecular_function
+GO:0003677 molecular_function DNA binding
+GO:0003676 molecular_function nucleic acid binding
+GO:0097159 molecular_function organic cyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:1901363 molecular_function heterocyclic compound binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function
+GO:0003700 molecular_function DNA binding transcription factor activity
+GO:0140110 molecular_function transcription regulator activity
+GO:0003674 molecular_function molecular_function
+GO:0005515 molecular_function protein binding
+GO:0005488 molecular_function binding
+GO:0003674 molecular_function molecular_function 
